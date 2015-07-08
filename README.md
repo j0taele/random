@@ -1,0 +1,1 @@
+Programa que obtiene un número aleatorio y es capaz de saber si es mayor o menor a 0,5
